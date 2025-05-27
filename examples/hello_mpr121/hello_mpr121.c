@@ -17,8 +17,8 @@ sensor number is printed.
 
 // I2C definitions: port and pin numbers
 #define I2C_PORT i2c0
-#define I2C_SDA 20
-#define I2C_SCL 21
+#define I2C_SDA 4
+#define I2C_SCL 5
 
 // I2C definitions: address and frequency
 #define MPR121_ADDR 0x5A
